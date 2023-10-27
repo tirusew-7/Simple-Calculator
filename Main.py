@@ -26,7 +26,7 @@ def main():
     elif operation == "/":
       result = divide(num1, num2)
     else:
-      print("Invalid operation.")
+      print("Invalid")
       continue
  
  
